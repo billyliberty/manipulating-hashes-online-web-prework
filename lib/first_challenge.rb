@@ -20,5 +20,6 @@ def first_challenge
           delete_if? value == "strawberry"
         end
       end
+    end
   contacts
 end
